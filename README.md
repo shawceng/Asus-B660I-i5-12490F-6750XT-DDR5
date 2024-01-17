@@ -5,7 +5,7 @@
 | ----------- | --------------------------------- |
 | CPU         | Intel  i5 12490F                  |
 | Motherboard | Asus ROG Strix B660-I             |
-| GPU         | MSI Radeon RX *6650 XT MECH*      |
+| GPU         | AMD Radeon RX *6750 XT*      |
 | 网卡        | Intel Wi-Fi 6 AX201               |
 | 硬盘        | PREDATOR *GM7000* 1T              |
 | Memory      | Kingston *Fury* *5200MT*/s *DDR5* |
